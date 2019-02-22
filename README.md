@@ -8,8 +8,10 @@ Adresse du repository git : https://github.com/nathalie-megevand/2019-GEN-labo01
 
 Liste des commandes :
 
-- git clone https://github.com/nathalie-megevand/2019-GEN-labo01
+1 git clone https://github.com/nathalie-megevand/2019-GEN-labo01
 
-- git add README.md ; git commit -m "Commit n°2" ; git push ;
+2 git add README.md ; git commit -m "Commit n°2" ; git push ;
 
-- git checkout -b essai ; git add README.md ; git commit -m "Commit n°3" ; git push 
+3 git checkout -b essai ; git add README.md ; git commit -m "Commit n°3" ; git push --set-upstream origin essai ;
+
+4 git add README.md ; git commit -m "Commit n°4" ; git push ;
