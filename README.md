@@ -17,3 +17,5 @@ Liste des commandes :
 4 git add README.md ; git commit -m "Commit n°4" ; git push ;
 
 5 git add README.md ; git commit -m "Commit n°5" ; git push ;
+
+8. git checkout essai ; git add README.md ; git commit -m "Commit n°8" ; git push;
