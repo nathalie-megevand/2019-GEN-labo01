@@ -15,3 +15,10 @@ Liste des commandes :
 3 git checkout -b essai ; git add README.md ; git commit -m "Commit n°3" ; git push --set-upstream origin essai ;
 
 4 git add README.md ; git commit -m "Commit n°4" ; git push ;
+
+5. git add README.md ; git commit -m "Commit n°5" ; git push ;
+
+6. git checkout master ; git add README.md ; git commit -m "Commit n°6"; git push ;
+
+7. git checkout essai ; git checkout HEAD^ ; git merge master ; git commit -m "Commit n°7" ; git push
+
