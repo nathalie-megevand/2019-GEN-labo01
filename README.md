@@ -8,6 +8,7 @@ Adresse du repository git : https://github.com/nathalie-megevand/2019-GEN-labo01
 
 Liste des commandes :
 
+
 1. git clone https://github.com/nathalie-megevand/2019-GEN-labo01
 
 2. git add README.md ; git commit -m "Commit n°2" ; git push ;
@@ -19,3 +20,7 @@ Liste des commandes :
 5. git add README.md ; git commit -m "Commit n°5" ; git push ;
 
 6. git checkout master ; git add README.md ; git commit -m "Commit n°6"; git push ; 
+
+
+8. git checkout essai ; git add README.md ; git commit -m "Commit n°8" ; git push;
+
