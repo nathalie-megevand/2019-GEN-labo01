@@ -18,4 +18,6 @@ Liste des commandes :
 
 5. git add README.md ; git commit -m "Commit n°5" ; git push ;
 
-6. git checkout master ; git add README.md ; git commit -m "Commit n°6"; git push ; 
+6. git checkout master ; git add README.md ; git commit -m "Commit n°6"; git push ;
+
+9. git checkout master ; git checkout -b essai2 ; git add README.md ; git commit -m "Commit n°9" ; git push --set-upstream  origin essai2;
